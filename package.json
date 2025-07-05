@@ -1,0 +1,23 @@
+{
+  "name": "jsllm7",
+  "version": "0.1.0",
+  "description": "Make Your JavaScript Think For Free - Universal zero-dependency client for the LLM7.io (browser, Node CJS/ESM)",
+  "main": "jsllm7.js",
+  "exports": {
+    ".": "./jsllm7.js"
+  },
+  "bin": {
+    "jsllm7": "./jsllm7.js"
+  },
+  "files": [
+    "jsllm7.js"
+  ],
+  "type": "commonjs",
+  "keywords": ["LLM7", "AI", "chatgpt", "grok", "mistral", "ministral", "codestral", "deepseek", "javascript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theartur/jsllm7.git"
+  },
+  "author": "jazzcript <jazzcript@hotmail.com>",
+  "license": "MIT"
+}
